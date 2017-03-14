@@ -2,7 +2,9 @@
 The project for Internet Programming subject of IUT
 <br>
 Project is for a team of 
-Abdulbosid Khamidov
-Madina Saidova
-Muslimbek Abduganiyev
-Darkhonbek Mamataliev
+<br><ul>
+<li>Abdulbosid Khamidov
+<li>Madina Saidova
+<li>Muslimbek Abduganiyev
+<li>Darkhonbek Mamataliev
+</ul>
